@@ -81,6 +81,10 @@
             "type": ["string",
             "null"]
         },
+        "main_viewpoint_guid": {
+            "type": ["string",
+            "null"]
+        },
         "authorization": {
             "type": "object",
             "required": false,

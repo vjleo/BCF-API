@@ -63,6 +63,10 @@
         "due_date": {
             "type": ["string",
             "null"]
+        },
+        "main_viewpoint_guid": {
+            "type": ["string",
+            "null"]
         }
     }
 }
